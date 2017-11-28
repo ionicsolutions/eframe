@@ -1,0 +1,1 @@
+pyuic4.bat EFrame_UI.ui > EFrame_UI.py
